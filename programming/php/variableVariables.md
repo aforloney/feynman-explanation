@@ -38,7 +38,7 @@ This can even be extended further by adding another dollar sign,
 	// 			=>
 	// 				$($name) = 'aforloney';
 	//					^
-	//				  'anthony'
+	//				  'anthony' (again the contents of $name is returned as a string, ie 'anthony')
 	//						=>
 	//							$anthony = 'aforloney';
 	//
